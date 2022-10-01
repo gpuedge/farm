@@ -10,6 +10,23 @@ Consumer
 ![image](https://user-images.githubusercontent.com/3028982/167264063-fbc572d7-8d69-45f0-9e74-7dd5c4c62ff3.png)
 
 ## Changelog
+v1.0.1 - Sept 30, 2022
+  - WebSSH Added
+
+v1.0.0 - Sept 29, 2022
+First Point Release
+  - A lot of code cleanup
+  - Robust Storage APIs added
+  - Improved real-time notification system
+
+v0.0.10 - Jul 15, 2022
+First Ready Release
+  - Payment settlement through (https://github.com/gpuedge/wallet)
+  - Rewrote webserver (https://github.com/vans163/photon)
+  - Fixed throughput issues (30mbps 4k video ingestion)
+  - Reduced binary size by 80%
+  - Misc fixes all around
+
 v0.0.9 - May 7th, 2022
 ```
 Major reworking
